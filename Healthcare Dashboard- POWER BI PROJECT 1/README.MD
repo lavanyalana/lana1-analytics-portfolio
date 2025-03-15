@@ -1,6 +1,6 @@
-Healthcare Dashboard - Power BI
+# Healthcare Dashboard - Power BI
 
-Transforming Healthcare Data into Actionable Insights
+## Transforming Healthcare Data into Actionable Insights
 
 Project Overview
 In the fast-paced healthcare industry, efficient patient management is crucial. This Power BI dashboard provides a comprehensive view of inpatient and outpatient trends, helping stakeholders analyze wait times, case types, and patient volume to optimize hospital operations.I built this dashboard from raw multiple Excel files and transformed them into a powerful interactive visualization, offering both summary insights and in-depth analysis of patient data.
