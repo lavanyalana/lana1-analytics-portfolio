@@ -4,11 +4,13 @@
 
   Operational Analytics plays a crucial role in evaluating and optimizing a company's end-to-end operations. In this project, I conducted two case studies focusing on job data analysis and user engagement trends. As a Lead Data Analyst, I collaborated with operations, support, and marketing teams to extract insights, track key performance indicators, and investigate sudden metric spikes.
 
+  ---
+
   ## Approach & Methodology
 
 - To carry out this project, I followed a structured data analysis process:
 
-- Importing Data – Imported large CSV files into MySQL using query-based methods.
+- Importing Data – Imported large CSV files into MySQL using **query-based methods**.
 
 - Understanding the Data – Examined datasets to grasp their structure and key attributes.
 
@@ -17,6 +19,8 @@
 - Analysis & Interpretation – Processed query results to address specific business tasks.
 
 - Reporting & Documentation – Compiled findings into a structured format for business stakeholders.
+
+  ---
 
 ## Case Study 1: Job Data Analysis
 
@@ -53,6 +57,8 @@ Objective: Identify duplicate rows in the job data.
 Checked for duplicate records using SQL.
 
 ### Key Finding: No duplicate rows were found (all values were unique).
+
+---
 
 ## Case Study 2: Investigating Metric Spike
 
@@ -98,6 +104,8 @@ Objective: Track user growth trends over time.
 
 - SQL CTEs were used to calculate user counts and engagement percentages.
 
+---
+
   ## Key Insights & Business Impact
 
 1. Jobs Reviewed Over Time – Identified fluctuations in job reviews, improving workforce planning.
@@ -115,6 +123,8 @@ Objective: Track user growth trends over time.
 7. Weekly Engagement Per Device – Compared engagement across devices to optimize user experience.
 
 8. Email Engagement Analysis – Evaluated email campaign effectiveness, guiding improvements in communication strategies.
+
+---
 
 
    ## Project Takeaways & Learnings
