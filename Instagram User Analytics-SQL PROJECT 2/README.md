@@ -8,12 +8,16 @@ In today's digital age, social media analytics plays a critical role in understa
 
 The analysis is built on SQL fundamentals, including complex JOINs, aggregations, and subqueries to derive valuable insights from Instagram user data.
 
+---
+
 ## Key Skills & Tools Used
 
 - SQL Fundamentals – Data extraction, manipulation, and aggregation
 - Data Analysis – User behavior analysis, engagement pattern identification, hashtag analysis
 - Database Structure Understanding – Proficient with JOIN operations and query optimization
 - Insights Extraction – Identifying user behavior trends and campaign optimization strategies
+
+--- 
 
 ## Approach & Methodology
 
@@ -53,6 +57,8 @@ Familiarized myself with the structure of the database, focusing on key tables:
 
 -Ran complex queries with subqueries, JOINs, and aggregation functions (COUNT(), GROUP BY, HAVING) to uncover hidden insights from the data
 -Interpreted query results to derive actionable insights such as peak engagement times, popular hashtags, and user behavior patterns
+
+---
 
 ## Insights & Impact
 
