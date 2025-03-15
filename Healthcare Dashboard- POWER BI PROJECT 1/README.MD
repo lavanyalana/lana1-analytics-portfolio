@@ -6,11 +6,11 @@ Project Overview
 In the fast-paced healthcare industry, efficient patient management is crucial. This Power BI dashboard provides a comprehensive view of inpatient and outpatient trends, helping stakeholders analyze wait times, case types, and patient volume to optimize hospital operations.I built this dashboard from raw multiple Excel files and transformed them into a powerful interactive visualization, offering both summary insights and in-depth analysis of patient data.
 
 Key Skills & Tools Used
-✅ Data Cleaning & Transformation – Power Query (Merging, Appending, Shaping Data)
-✅ Data Modeling – Structuring inpatient & outpatient records
-✅ Data Visualization – Interactive dashboards, charts, and slicers in Power BI
-✅ Analytics & Insights – Trends in patient wait times, case types, and age distribution
-✅ Design & User Experience – Custom theme (Blue & Pink), PowerPoint-designed background
+1. Data Cleaning & Transformation – Power Query (Merging, Appending, Shaping Data)
+2. Data Modeling – Structuring inpatient & outpatient records
+4. Data Visualization – Interactive dashboards, charts, and slicers in Power BI
+5. Analytics & Insights – Trends in patient wait times, case types, and age distribution
+6. Design & User Experience – Custom theme (Blue & Pink), PowerPoint-designed background
 
 Approach & Methodology
 1. Data Preparation:
