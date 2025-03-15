@@ -19,7 +19,8 @@ Key Skills & Tools Used
 
   1. Data Extraction & Understanding:
  
-  Familiarized myself with the structure of the database, focusing on key tables:
+Familiarized myself with the structure of the database, focusing on key tables:
+
 -users – Registered user data
 -photos – Photos uploaded by users
 -tags – Hashtags associated with photos
@@ -30,21 +31,21 @@ Key Skills & Tools Used
 
 2. Key SQL Queries for Analysis:
 
-   User Engagement Patterns:
+User Engagement Patterns:
 
 -Used JOINs to connect users, photos, and interactions (likes, comments, follows)
 -Aggregated the data with COUNT() and GROUP BY to determine average engagement per user
 
-  Hashtag Popularity:
+Hashtag Popularity:
 
 -Extracted top hashtags by linking photos and tags using JOIN
 -Identified the most popular hashtags using GROUP BY and COUNT()
 
-  Optimal Campaign Scheduling:
+Optimal Campaign Scheduling:
 
 -Analyzed user registration activity to determine the best days for campaigns (using HAVING for specific days)
 
-  Identifying Fake Accounts:
+Identifying Fake Accounts:
 
 -Used engagement patterns and activity data to detect outliers or suspicious user behavior that may indicate bot or fake accounts
 
