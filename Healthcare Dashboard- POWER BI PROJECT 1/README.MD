@@ -19,14 +19,14 @@ Used Power Query to transform and append inpatient & outpatient tables
 
 ### 2. Dashboard Development:
 ### Summary Page:
-Latest & Previous Month Wait List with key filters (Case Type, Speciality)
-Age Profile & Time Band Analysis (Column Chart – Avg/Median Wait List)
-Patient Volume Trends (Line Chart – Inpatient & Outpatient Over Time)
-Key Metrics Cards (Avg/Median Wait List per Case Type)
+- Latest & Previous Month Wait List with key filters (Case Type, Speciality)
+- Age Profile & Time Band Analysis (Column Chart – Avg/Median Wait List)
+- Patient Volume Trends (Line Chart – Inpatient & Outpatient Over Time)
+- Key Metrics Cards (Avg/Median Wait List per Case Type)
 
 ### Detailed View Page:
-Matrix Table (In-depth inpatient & outpatient records by Archive Date & Case Type)
-Slicers for Dynamic Filtering (Improved user interactivity)
+- Matrix Table (In-depth inpatient & outpatient records by Archive Date & Case Type)
+- Slicers for Dynamic Filtering (Improved user interactivity)
 
 ## 3. Design & Interactivity:
 
