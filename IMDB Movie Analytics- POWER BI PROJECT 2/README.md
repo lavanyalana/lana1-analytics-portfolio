@@ -1,8 +1,8 @@
-IMDb Movie Analytics Dashboard - Power BI
+# IMDb Movie Analytics Dashboard - Power BI
 
-Unlocking the Magic of Movies with Data
+## Unlocking the Magic of Movies with Data
 
-Project Overview
+### Project Overview
 
 Movies have an undeniable influence on audiences worldwide, and understanding their performance metrics can provide invaluable insights. In this IMDb Movie Analytics project, I transformed a rich dataset of movies into a dynamic and interactive dashboard that visualizes essential movie data, including IMDb ratings, box office gross, and release trends.This project not only dives deep into the world of movies but also uses data-driven storytelling to create actionable insights for movie producers, marketers, and analysts.
 
